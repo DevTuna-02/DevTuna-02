@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevTuna-02
-- 👀 I’m interested in bakery and web development lol
+- 👀 I’m interested in bakery and web development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Website building
 
